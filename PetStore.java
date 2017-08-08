@@ -8,7 +8,7 @@
       public String getType(){
           return mType;
       }
-      public String mColor(){
+      public String getColor(){
           return mColor;
       }
       public PetStore(String name,String type,String color){
